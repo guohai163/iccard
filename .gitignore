@@ -1,0 +1,5 @@
+.DS_Store
+CardBackup/build/
+iccard-starter.zip
+tests/__pycache__/
+*.pyc
